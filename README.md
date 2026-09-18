@@ -1,5 +1,5 @@
 <img width="1280" height="720" alt="chroma-gui-github-banner" src="https://github.com/user-attachments/assets/bdefe229-9e38-40cf-8d09-5dc1bb797d6b" />
-# <img width="3832" height="1133" alt="ChromaGui-vorher-nachher" src="https://github.com/user-attachments/assets/8afd2a02-1374-4355-8253-749b6479b3e3" />
+<img width="3832" height="1133" alt="ChromaGui-vorher-nachher" src="https://github.com/user-attachments/assets/8afd2a02-1374-4355-8253-749b6479b3e3" />
 🎨 Chroma GUI 0.1.0
 
 Systemweite Farbfilter für Windows — in Echtzeit, **ohne Injection**.
